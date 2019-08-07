@@ -1,4 +1,4 @@
-irequire 'pry'
+require 'pry'
 
 class String
 
